@@ -1,8 +1,8 @@
-#include <iostream>
+#include "Printer.hpp"
 
 using namespace std;
 
-int main(int argc, const char** argv) {
-
+int main(void) {
+  Printer::helloWorld();
   return 0;
 }
