@@ -1,6 +1,6 @@
 #include "Printer.hpp"
 #include "iostream"
 
-void Printer::helloWorld() {
+void helloWorld() {
   std::cout << "Hello World!" << std::endl;
 }

@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(void) {
-  Printer::helloWorld();
+  helloWorld();
   return 0;
 }
